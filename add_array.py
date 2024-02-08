@@ -13,6 +13,8 @@ def add_array(num):
                 add +=j
         print("The sum of the even numbers in the array is",add)
         print("The sum of the odd numbers in the array is",even)
+    else:
+        print("The number accepted only  if less than 15")
     
 
 a=int(input())
