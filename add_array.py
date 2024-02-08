@@ -13,8 +13,7 @@ def add_array(num):
                 add +=j
         print("The sum of the even numbers in the array is",add)
         print("The sum of the odd numbers in the array is",even)
-    else:
-        pass
+    
 
 a=int(input())
 add_array(a)
